@@ -6,4 +6,7 @@ change a test
 =======
 change test
 how to modify bugs
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
